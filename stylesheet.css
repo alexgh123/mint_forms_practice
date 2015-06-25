@@ -1,32 +1,79 @@
 * {
-  border: solid gray 1px;
+
   margin: 10px;
 }
 
 #header {
 
+    margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+
+
+
+}
+
+#image {
+  height:100px;
+  width: 150px;
+}
+
+#left {
+  display: inline-block;
+  position:relative;
+  left:1px;
+
+}
+
+#right {
+  display: inline-block;
+  position:relative;
+  left:400px;
+
 }
 
 #sign-up-container {
-
+  border: solid gray 1px;
+  border-radius: 5px;
+  position:relative;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
 }
 
 #form {
+  padding-top:10px;
+
+  display: inline-block;
+  position:relative;
 
 }
 
 #endorsement {
 
+  display: inline-block;
+  position:relative;
+  height:50%;
+
 }
 
 #footer-links {
+  margin-left: 20%;
+  margin-right: auto;
+  width: 80%;
 
 }
 
 #norton-truste {
+  margin-left: 30%;
+  margin-right: auto;
+  width: 80%;
 
 }
 
 #idk {
+  margin-left: 35%;
+  margin-right: auto;
+  width: 80%;
 
 }
