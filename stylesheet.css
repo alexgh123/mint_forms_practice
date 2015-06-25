@@ -1,27 +1,34 @@
 #header {
-
+  border: solid gray 1px;
+  margin: 10px;
 }
 
-#sign-up-box {
-
+#sign-up-container {
+  border: solid gray 1px;
+  margin: 10px;
 }
 
 #form {
-
+  border: solid gray 1px;
+  margin: 10px;
 }
 
 #endorsement {
-
+  border: solid gray 1px;
+  margin: 10px;
 }
 
 #footer-links {
-
+  border: solid gray 1px;
+  margin: 10px;
 }
 
 #norton-truste {
-
+  border: solid gray 1px;
+  margin: 10px;
 }
 
-#eh {
-
+#idk {
+  border: solid gray 1px;
+  margin: 10px;
 }
